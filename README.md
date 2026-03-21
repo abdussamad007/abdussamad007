@@ -2,6 +2,12 @@
 
 Hi, I am Abdus Mondal a Passionate Engineering Leader , more than 20 years in Financial Domain. 
 
+## My Experience:
+* Deutsche Bank | Vice President - Engineering Lead  - September 2022 - Ongoing
+* DBS - Development Bank of Singapore | Vice President - Development Manager - Aug 2021 - September 2022
+* Opus Consulting | Technical Architect - Product Development  - Feb 2020 - July 2021
+* BNY - Bank of New York | Application Development Manager - June 2013 - Feb 2020
+* HSBC - Hong Kong Shanghai Bank | Nov 2006 - June 2013
 <!--
 **abdussamad007/abdussamad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
