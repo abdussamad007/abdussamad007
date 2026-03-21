@@ -1,5 +1,7 @@
 ## About Me 👋
 
+Hi, I am Abdus Mondal a Passionate Engineering Leader , more than 20 years in Financial Domain. 
+
 <!--
 **abdussamad007/abdussamad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
