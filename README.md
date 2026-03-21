@@ -8,6 +8,13 @@ Hi, I am Abdus Mondal a Passionate Engineering Leader , more than 20 years in Fi
 * Opus Consulting | Technical Architect - Product Development  - Feb 2020 - July 2021
 * BNY - Bank of New York | Application Development Manager - June 2013 - Feb 2020
 * HSBC - Hong Kong Shanghai Bank | Nov 2006 - June 2013
+
+## Contact:
+<img width="87" height="28" alt="connect2abdus@gmail.com" src="https://github.com/user-attachments/assets/8835c15b-0815-4db7-a1a2-04e47fef7104" />
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/2db625d7-3e38-49ed-9f99-910f8ce5338a" />
+
+
+
 <!--
 **abdussamad007/abdussamad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
