@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi, I am Abdus Mondal a Passionate Engineering Leader , more than 20 years in Financial Domain. 
+Hi, I am Abdus Mondal, a Passionate Engineering Leader , more than 20 years of experience in Financial Domain. 
 
 ## My Experience:
 * Deutsche Bank | Vice President - Engineering Lead  - September 2022 - Ongoing
